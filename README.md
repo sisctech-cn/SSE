@@ -14,7 +14,8 @@ SSE包括多款高性能加解密算法IP，支持在其基础架构上进行灵
 + 流水线设计
 + 通用总线接口
 
-
+# 下载：
+http://www.sisctech.cn/uploads/soft/sisc_security.tgz
 # 运行说明
 C model操作流程，便于上手运行。
 
